@@ -5,7 +5,7 @@ import {
   CustomersTableType,
   FormattedCustomersTable,
 } from "@/app/lib/definitions";
-import { lusitana } from "../Fonts/font";
+import { lusitana } from "../fonts/font";
 
 export default async function CustomersTable({
   customers,
